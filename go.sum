@@ -1,0 +1,4 @@
+github.com/iooojik/go-logger v0.0.2 h1:+AwoeuN8cSFnx8auI4/uPheITyLz96Ay+JaaQggJe0o=
+github.com/iooojik/go-logger v0.0.2/go.mod h1:W4PPruGy7vdvN0gZGcZT1jI0eTwSypPqmmWUVa/CmyI=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
